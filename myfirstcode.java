@@ -1,5 +1,5 @@
-public class  Hello {
+public class MyFirstCode {
     public static void main(String[] args) {
-        System.out.println("myfirstcode.java");
+        System.out.println("This is my first Java program!");
     }
 }
