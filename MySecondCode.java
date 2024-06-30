@@ -1,4 +1,4 @@
-public class ArrayExample {
+public class MySecondCode {
     public static void main(String[] args) {
         // Declaring and initializing an integer array
         int[] numbers = { 1, 2, 3, 4, 5 };
